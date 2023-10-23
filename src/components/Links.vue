@@ -5,7 +5,7 @@
 			<p className="title">LINKS:</p>
 			<a href="https://github.com/Fret0lol" target="_blank" rel="noreferrer" className="tile">
 				<div class="tile-icon">
-					<svg width="42" height="42" xmlns="http://www.w3.org/2000/svg" fill="#24292f" viewBox="0 0 95 100">
+					<svg width="42" height="42" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 95 100">
 						<g id="XMLID_802_">
 							<path
 								fillRule="evenodd"
