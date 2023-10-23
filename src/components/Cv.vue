@@ -60,7 +60,7 @@ import Stock from './Stock.vue'
 						</div>
 					</div>
 				</div>
-				<div className="contact">See my works</div>
+				<a href="https://github.com/Fret0lol" target="_blank" className="contact">See my works</a>
 			</div>
 		</main>
 		<div class="footer">

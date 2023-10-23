@@ -46,7 +46,7 @@ onMounted(() => {
 </script>
 <template>
 	<div id="stock" class="card">
-		<p className="title">STOCK</p>
+		<p className="title">STACK</p>
 		<div className="dock-container">
 			<ul className="dock">
 				<li className="li-1">
